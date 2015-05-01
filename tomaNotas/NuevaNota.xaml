@@ -1,0 +1,36 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="tomaNotas.NuevaNota"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="{Binding Path=LocalizedResources.ApplicationTitle, Source={StaticResource LocalizedStrings}}" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="{Binding Path=LocalizedResources.nuevaNota, Source={StaticResource LocalizedStrings}}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBox x:Name="boxTitulo" Text="{Binding Path=LocalizedResources.titulo, Source={StaticResource LocalizedStrings}}" Margin="0,0,0,525" VerticalAlignment="Top" FontSize="28" GotFocus="boxTitulo_GotFocus"/>
+            <TextBox x:Name="boxContenido" Text="{Binding Path=LocalizedResources.contenido, Source={StaticResource LocalizedStrings}}" Height="455" VerticalAlignment="Bottom" Margin="0,0,0,80" Background="Yellow" Foreground="Blue" FontStyle="Italic" FontSize="26" GotFocus="boxContenido_GotFocus"/>
+            <Button x:Name="buttonGuardar" Content="{Binding Path=LocalizedResources.guardar, Source={StaticResource LocalizedStrings}}" HorizontalAlignment="Left" Margin="0,527,0,0" VerticalAlignment="Top" Width="456" Height="77" Click="buttonGuardar_Click"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

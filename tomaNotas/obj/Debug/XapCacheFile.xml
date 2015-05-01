@@ -1,0 +1,19 @@
+﻿<xapCache source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Bin\Debug\tomaNotas_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="19/03/2014 23:15:42">
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\obj\Debug\tomaNotas.dll" archivePath="tomaNotas.dll" lastWriteTime="19/03/2014 23:15:42" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\obj\Debug\es\tomaNotas.resources.dll" archivePath="es\tomaNotas.resources.dll" lastWriteTime="19/03/2014 23:15:42" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="16/03/2014 23:20:51" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="17/03/2014 8:16:00" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="17/03/2014 8:12:50" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="17/03/2014 8:16:42" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="17/03/2014 8:17:09" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Images\appbar.add.rest.png" archivePath="Images\appbar.add.rest.png" lastWriteTime="17/03/2014 1:29:49" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="17/03/2014 2:55:46" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Images\appbar.cancel.rest.png" archivePath="Images\appbar.cancel.rest.png" lastWriteTime="17/03/2014 1:29:49" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Images\appbar.check.rest.png" archivePath="Images\appbar.check.rest.png" lastWriteTime="17/03/2014 1:29:49" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Images\appbar.delete.rest.png" archivePath="Images\appbar.delete.rest.png" lastWriteTime="17/03/2014 1:29:29" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="17/03/2014 1:29:29" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="18/03/2014 2:55:13" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="17/03/2014 8:13:59" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="17/03/2014 8:12:50" />
+  <file source="C:\Users\JoseMiguel\Documents\Visual Studio 2012\Projects\tomaNotas\tomaNotas\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="18/03/2014 2:55:13" />
+</xapCache>
